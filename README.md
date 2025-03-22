@@ -1,4 +1,6 @@
 # Old-school map symbols Foundry VTT module
+
+![alt text](image.png)
  
 This module includes old-school map symbols meant to be used as tiles. They are organized and tagged using the Baileywiki Mass Edit module, but are usable without it as regular tiles. 
 
