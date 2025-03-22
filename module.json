@@ -35,5 +35,8 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/JordanRR/old-school-map-symbols/tree/2025-03-22",
+  "manifest": "https://github.com/JordanRR/old-school-map-symbols/releases/download/2025-03-22/module.json",
+  "download":  "https://github.com/JordanRR/old-school-map-symbols/releases/download/2025-03-22/old-school-map-symbols.zip"
 }
