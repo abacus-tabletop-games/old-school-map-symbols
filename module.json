@@ -1,0 +1,39 @@
+{
+  "id": "old-school-map-symbols",
+  "title": "Old-School Map Symbols",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "multi-token-edit",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Various old-school map symbols as tiles to add to your old-school scenes. \n\nIcons by Mark Gosbell, licensed under CC0. \nhttps://markgosbell.itch.io/\nhttps://creativecommons.org/publicdomain/zero/1.0/",
+  "authors": [
+    {
+      "name": "Jordan Raymond",
+      "email": "abacus.tabletop.games@gmail.com",
+      "discord": "Jordan#9033",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "old-school-map-symbols",
+      "label": "Old-School Map Symbols",
+      "path": "packs/old-school-map-symbols",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
