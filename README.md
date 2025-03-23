@@ -20,4 +20,4 @@ Email: abacus.tabletop.games@gmail.com
 
 ## Attributions, etc.
 
-* The tiles are from [Mark Gosbell](https://markgosbell.itch.io/) under CC0 license. I modified and adapted some of them and also release them under CC0 license. https://markgosbell.itch.io/ https://creativecommons.org/publicdomain/zero/1.0/
+* The tiles are from [Mark Gosbell](tab:https://markgosbell.itch.io/) under CC0 license. I modified and adapted some of them and also release them under CC0 license. https://markgosbell.itch.io/ https://creativecommons.org/publicdomain/zero/1.0/
