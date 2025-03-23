@@ -14,10 +14,10 @@ Jordan, Abacus Tabletop Games
 
 ## Contact me
 
-Ko-fi: If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus  
-Blog: https://abacustabletopgames.bearblog.dev/  
-Email: abacus.tabletop.games@gmail.com
+[Ko-fi](https://ko-fi.com/jordan_abacus): If you want to pay me a coffee, thank you! https://ko-fi.com/jordan_abacus  
+[Blog](https://abacustabletopgames.bearblog.dev/): https://abacustabletopgames.bearblog.dev/  
+[Email](abacus.tabletop.games@gmail.com): abacus.tabletop.games@gmail.com
 
 ## Attributions, etc.
 
-* The tiles are from [Mark Gosbell](tab:https://markgosbell.itch.io/) under CC0 license. I modified and adapted some of them and also release them under CC0 license. https://markgosbell.itch.io/ https://creativecommons.org/publicdomain/zero/1.0/
+* The tiles are from [Mark Gosbell](https://markgosbell.itch.io/) under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). I modified and adapted some of them and also release them under CC0 license.
