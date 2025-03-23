@@ -12,4 +12,6 @@ Thank you!
 
 Jordan, Abacus Tabletop Games
 
+---
+
 The tiles are from Mark Gosbell under CC0. https://markgosbell.itch.io/ I modified and adpated some of them, released under CC0. https://creativecommons.org/publicdomain/zero/1.0/
