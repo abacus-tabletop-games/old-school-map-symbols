@@ -2,7 +2,7 @@
 
 ## How to install
 
-Install manually the latest build by pasting this manifest url: https://github.com/JordanRR/old-school-map-symbols/releases/latest/download/module.json
+Install manually the latest build by pasting this manifest url: https://github.com/Jordan-Abacus/old-school-map-symbols/releases/latest/download/module.json
 
 ![alt text](image.png)
 
@@ -10,7 +10,7 @@ This module includes old-school map symbols meant to be used as tiles. They are 
 
 Thank you!
 
-[Jordan — Abacus Tabletop Games](##Jordan — Abacus Tabletop Games)
+Jordan — Abacus Tabletop Games
 
 ## Required and Recommended Modules
 
