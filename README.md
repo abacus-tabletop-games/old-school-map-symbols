@@ -22,7 +22,7 @@ Thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
-[Blog](https://abacustabletopgames.bearblog.dev/)  
+[Website](https://abacustabletopgames.bearblog.dev/)  
 [Email](abacus.tabletop.games@gmail.com)
 
 ## Attributions, etc.
