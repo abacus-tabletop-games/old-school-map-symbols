@@ -10,9 +10,15 @@ This module includes old-school map symbols meant to be used as tiles. They are 
 
 Thank you!
 
-Jordan, Abacus Tabletop Games
+[Jordan — Abacus Tabletop Games](##Jordan — Abacus Tabletop Games)
 
-## Contact me
+## Required and Recommended Modules
+
+### Recommended
+
+* [Baileywiki Mass Edit](https://foundryvtt.com/packages/multi-token-edit). The module is used to tag and organize the tiles. They can still be used without.
+
+## Jordan — Abacus Tabletop Games
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
