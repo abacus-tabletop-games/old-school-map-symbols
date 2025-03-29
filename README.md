@@ -23,6 +23,6 @@ Jordan — [Abacus Tabletop Games](https://abacustabletopgames.bearblog.dev/)
 
 * The tiles are from [Mark Gosbell](https://markgosbell.itch.io/) under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). I modified and adapted some of them and also release them under CC0 license.
 
-You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to pay me a coffee, I thank you!
+You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](tab:https://ko-fi.com/abacus_tabletop_games), I thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
