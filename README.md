@@ -13,7 +13,7 @@ Thank you!
 
 Jordan — [Abacus Tabletop Games](https://abacustabletopgames.bearblog.dev/)
 
-## Dependencies Recommended Modules
+## Dependencies
 
 ### Recommended Modules
 
