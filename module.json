@@ -1,10 +1,10 @@
 {
   "id": "old-school-map-symbols",
   "title": "Old-School Map Symbols",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "relationships": {
     "recommends": [
@@ -36,7 +36,7 @@
       }
     }
   ],
-  "url": "https://github.com/abacus-tabletop-games/old-school-map-symbols/tree/1.1.0",
-  "manifest": "https://github.com/abacus-tabletop-games/old-school-map-symbols/releases/download/1.1.0/module.json",
-  "download":  "https://github.com/abacus-tabletop-games/old-school-map-symbols/releases/download/1.1.0/old-school-map-symbols.zip"
+  "url": "https://github.com/abacus-tabletop-games/old-school-map-symbols/tree/1.2.0",
+  "manifest": "https://github.com/abacus-tabletop-games/old-school-map-symbols/releases/download/1.2.0/module.json",
+  "download":  "https://github.com/abacus-tabletop-games/old-school-map-symbols/releases/download/1.2.0/old-school-map-symbols.zip"
 }
